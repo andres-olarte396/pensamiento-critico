@@ -55,7 +55,7 @@ Puedes navegar por los documentos en formato `.md` para leer los artículos comp
    git clone https://github.com/tu-usuario/pensamiento-critico.git
    ```
 
-2. Explora los documentos según el índice del archivo `SUMMARY.md`.
+2. Explora los documentos según el índice del archivo [`SUMMARY.md`](SUMARY.md).
 3. Usa este material para mejorar tu capacidad de análisis, argumentación y toma de decisiones.
 
 ## 📌 Contribuciones  
