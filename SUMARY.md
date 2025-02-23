@@ -1,5 +1,7 @@
 # Pensamiento Crítico
 
+[📄 Introducción](00-introduccion.md)
+
 ## 1. Manipulación Emocional
 
 - [📄 La manipulación emocional](01-la-manipulacion-emocional.md)
