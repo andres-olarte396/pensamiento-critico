@@ -1,22 +1,22 @@
-# ¿Que son los Heurísticos?
+# ¿Qué son los Heurísticos?
 
-Los heurísticos son atajos mentales que simplifican la toma de decisiones en situaciones de incertidumbre. [cite: 17, 18] Son reglas intuitivas, "reglas generales", o estrategias cognitivas que se basan en la experiencia previa y permiten tomar decisiones rápidas y eficientes sin tener que analizar toda la información disponible.
-
----
-
-## Sinónimos de heurísticos:
-
-* **Atajos mentales**
-* **Reglas generales**
-* **Estrategias cognitivas**
-* **Métodos intuitivos**
-* **Procesos simplificados**
-* **Reglas empíricas**
-* **Principios heurísticos**
+Los **heurísticos** son como atajos mentales que nuestro cerebro utiliza para tomar decisiones rápidamente. Imagina que son "reglas de oro" o "pautas rápidas" que hemos aprendido con el tiempo. Nos ayudan a decidir de forma ágil, especialmente cuando no tenemos toda la información, basándonos en experiencias pasadas en lugar de analizar cada detalle.
 
 ---
 
-## Características de los heurísticos:
+## Sinónimos de Heurísticos:
+
+* Atajos mentales
+* Reglas generales
+* Estrategias cognitivas
+* Métodos intuitivos
+* Procesos simplificados
+* Reglas empíricas
+* Principios heurísticos
+
+---
+
+## Características de los Heurísticos:
 
 * **Simplifican la toma de decisiones:** Permiten tomar decisiones rápidas y eficientes en situaciones complejas o con información limitada.
 * **Se basan en la experiencia previa:** Se aprenden a través de la experiencia y se aplican de forma automática e inconsciente.
@@ -25,10 +25,12 @@ Los heurísticos son atajos mentales que simplifican la toma de decisiones en si
 
 ---
 
-## Ejemplos de heurísticos:
+## Ejemplos de Heurísticos:
 
-* **Heurístico de disponibilidad:** Se basa en la información más accesible en la memoria. [cite: 20, 21, 22]
-* **Heurístico de representatividad:** Se hacen inferencias sobre la probabilidad de un evento basándose en estereotipos o características representativas. [cite: 26, 27, 28]
-* **Heurístico de ajuste y anclaje:** Las estimaciones se ajustan a un valor inicial (ancla) que influye en la respuesta final. [cite: 23, 24, 25]
+* **Heurístico de disponibilidad:** Ocurre cuando juzgamos la probabilidad de un evento basándonos en lo fácil que es recordar ejemplos de él. Por ejemplo, si ves muchas noticias sobre accidentes de avión, podrías pensar que son más comunes de lo que realmente son, simplemente porque esas noticias son muy fáciles de recordar.
 
-Los heurísticos son una herramienta fundamental para la toma de decisiones en la vida cotidiana y la comunicación persuasiva. Sin embargo, es importante ser conscientes de sus limitaciones y de la posibilidad de que den lugar a sesgos cognitivos.
+* **Heurístico de representatividad:** Es cuando hacemos juicios sobre algo o alguien basándonos en qué tan bien se ajusta a un estereotipo o a una idea que ya tenemos. Por ejemplo, si ves a alguien con gafas y un libro en la mano, podrías asumir que es una persona muy inteligente, porque esa imagen "representa" la idea de un intelectual en nuestra mente.
+
+* **Heurístico de ajuste y anclaje:** Es cuando nuestra primera impresión o el primer dato que recibimos (el "ancla") influye fuertemente en nuestras decisiones o estimaciones posteriores. Un ejemplo clásico es en las compras: un precio original muy alto en una etiqueta de descuento hace que el nuevo precio parezca una ganga, incluso si sigue siendo alto.
+
+En resumen, los heurísticos nos ayudan a navegar el día a día de manera eficiente. Son cruciales en nuestra forma de pensar y de interactuar con el mundo, incluso en cómo somos persuadidos. Aún así, es vital recordar que, aunque son útiles, no son perfectos. A veces, pueden llevarnos a cometer errores de pensamiento que los psicólogos llaman **sesgos cognitivos**.
